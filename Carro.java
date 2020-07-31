@@ -4,6 +4,8 @@ public class Carro {
 
     public String getPlaca(){
         return palca;
+
+        int i;
     }
     
 }
